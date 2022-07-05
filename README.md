@@ -2,7 +2,7 @@
 
 ## _Personal Résumé_
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![](https://img.shields.io/badge/HTML-v5.0-orange) ![](https://img.shields.io/badge/Bootstrap-v5.0-purple) ![](https://img.shields.io/badge/CSS-v3-blue)
 
 This is a project created for the HTML AND CSS Basics course giving by the FIE Faculty.
 This project was created with:
