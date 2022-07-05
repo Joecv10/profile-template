@@ -4,9 +4,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
+This is a project created for the HTML AND CSS Basics course giving by the FIE Faculty.
+This project was created with:
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+- HTML 5
+- CSS 3 & Bootstrap 5
+- JavaScript
