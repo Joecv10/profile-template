@@ -10,3 +10,5 @@ This project was created with:
 - HTML 5
 - CSS 3 & Bootstrap 5
 - JavaScript
+
+Joe Steven Concha Vasquez (Carrera de Software 3 "A")
